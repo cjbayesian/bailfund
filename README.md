@@ -31,3 +31,8 @@ jupyter notebook
 ```
 
 Visit http://localhost:8888/ and open `extract docket.ipynb` 
+
+## Notes
+
+Potential better table extraction from PDFs:
+https://blog.socialcops.com/technology/engineering/camelot-python-library-pdf-data/
